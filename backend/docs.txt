@@ -2,3 +2,7 @@ Socket Object
 The Socket class is a duplex stream that allows for reading and writing data across network connections. It is used for both client and server connections in Node.js's net module.
 
 A Socket represents a TCP or IPC connection to a remote endpoint, providing methods and events for managing the connection lifecycle and transferring data.
+
+Technology used :-
+------------------
+Node.js
